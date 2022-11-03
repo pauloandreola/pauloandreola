@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pauloandreola
 - 👀 I’m interested in learn to dev
 - 🌱 I’m currently learning Node.JS, Python, JavaScript
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate with everything around
 - 📫 How to reach me pauloandreola@gmail.com
 
 <!---
