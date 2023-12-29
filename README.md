@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauloandreola;
-- 👀 I’m interested in learn to dev;
-- 🌱 I’m currently learning JavaScript, Node.JS, TypeScript and Python;
+- 👀 I’m interested in learn to code;
+- 🌱 I’m currently learning JavaScript, Node.JS, TypeScript, Python and Power Plataform;
 - 💞️ I’m looking to collaborate with everything as possible;
 - 📫 How to reach me pauloandreola@gmail.com;
 
